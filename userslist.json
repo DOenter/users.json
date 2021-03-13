@@ -1,16 +1,16 @@
 {
-"city":"Lodz",
-"name": Marcin@name.com
+"password":"Lodz",
+"login": "marcin@name.com"
 },
 {
-"city":"Karowice",
-"name": Barbara@name.com
+"password":"Karowice",
+"login": "barbara@name.com"
 },
 {
-"city": "Warsawa",
-"name": Pawel@name.com
+"password": "Warsawa",
+"login": "pawel@name.com"
 },
 {
-"city": "Poznan",
-"name": Lukasz@name.com
+"password": "Poznan",
+"login": "lukasz@name.com"
 },
